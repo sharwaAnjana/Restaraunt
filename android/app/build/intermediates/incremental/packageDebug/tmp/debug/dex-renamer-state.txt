@@ -1,0 +1,4 @@
+#Fri May 07 14:01:52 IST 2021
+base.0=/home/dell/Restaraunt/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
